@@ -1,0 +1,5 @@
+01-find_process.txt
+
+ps -A | grep chrome
+// find out if chrome is still running
+

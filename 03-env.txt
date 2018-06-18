@@ -1,0 +1,11 @@
+03-env.txt
+
+find all the environment variables
+
+env
+
+
+find all environment variables and filter through grep
+
+env | grep BG_
+
