@@ -1,0 +1,7 @@
+04-grep in files.txt
+
+grep -rl 'customer' --include \*.yaml
+
+find 'customer' in current and sub folder, in all .yaml files.
+-i is ingore case
+-r is recursive
