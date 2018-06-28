@@ -1,0 +1,10 @@
+06-checkout remote branch to local.txt
+
+There ia remote branch 'origin/users/farraherbg/skeleton', we want to copy this remote branch to local with name 'initial-ui'
+
+git checkout origin/users/farraherbg/skeleton -b initial-ui
+
+Push local branch 'initial-ui' to remote origin and name it nick-initial-ui
+
+git push origin initial-ui:nick-initial-ui
+

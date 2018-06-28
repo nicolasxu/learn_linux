@@ -1,0 +1,4 @@
+05-dump mongodb.txt
+
+mongodump --host rflaptop.local --port 27017 --db mhn_poc
+
